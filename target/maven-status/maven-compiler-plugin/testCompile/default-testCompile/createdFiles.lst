@@ -1,0 +1,11 @@
+dataProvider\ConfigFileReader$1.class
+Manager\PageObjectManager.class
+pages\KervdigitalHomePage.class
+runners\TestRunner.class
+Manager\WebDriverFacade.class
+Manager\FileReaderManager.class
+stepdefinition\KervDigitalSteps.class
+dataProvider\ConfigFileReader.class
+enums\DriverType.class
+Manager\WebDriverManager.class
+Manager\TestContext.class
